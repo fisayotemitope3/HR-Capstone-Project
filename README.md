@@ -121,4 +121,4 @@ Junior Data Analyst | Microsoft Excel | Data Analytics
 Junior Data Analyst | Microsoft Excel | Data Analytics
 
 
-[HR_Analytics_Capstone.xlsx](HR_Capstone_Completed_Ayodele_Fisayo Temitope.xls.xlsx) –
+[HR_Analytics_Capstone.xlsx](HR_Capstone_Completed_Ayodele_Fisayo_Temitope.xlsx) –
